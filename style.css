@@ -723,3 +723,25 @@ body {
 
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
 }
+@media (max-height: 700px) {
+  .card {
+    padding: 28px 40px;
+  }
+  .brand {
+    margin-bottom: 20px;
+  }
+  .brand-icon {
+    width: 42px;
+    height: 42px;
+    margin-bottom: 10px;
+  }
+  .form-group {
+    margin-bottom: 14px;
+  }
+  .row-between {
+    margin-bottom: 16px;
+  }
+  .or-sep {
+    margin: 16px 0;
+  }
+}
