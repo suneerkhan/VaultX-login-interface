@@ -17,4 +17,9 @@ A sleek and modern authentication UI built with HTML, CSS, and JavaScript.
 - HTML5
 - CSS3
 - JavaScript
+  
+## How to Run
+1. Clone the repository
+2. Open `login.html` in your browser
+3. No installation needed!
 
