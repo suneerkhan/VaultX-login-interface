@@ -3,7 +3,7 @@
 A sleek and modern authentication UI built with HTML, CSS, and JavaScript.
 
 ## Live Demo
-🔗 https://suneerkhan.github.io/VaultX-login/
+🔗🔗 https://suneerkhan.github.io/VaultX-login-interface/login.html
 
 ## Features
 - 🔐 Login & Signup forms with real-time validation
@@ -18,8 +18,5 @@ A sleek and modern authentication UI built with HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
   
-## How to Run
-1. Clone the repository
-2. Open `login.html` in your browser
-3. No installation needed!
+
 
